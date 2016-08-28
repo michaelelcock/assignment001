@@ -1,0 +1,2 @@
+Help file should contain help for any cmd line commands so the user can use these with ease.
+these commands will be established at a later time

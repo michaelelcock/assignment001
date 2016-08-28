@@ -1,0 +1,4 @@
+i wrote all this code, or adapted it from leufeng tutorials.
+this is not robust.
+
+this program is not complete, and the implementation is horrible
